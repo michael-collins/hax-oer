@@ -3,7 +3,7 @@
   <title>oer 01</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-03-26T13:00:38-06:00</updated>
+  <updated>2019-03-26T13:08:07-06:00</updated>
   <author>
       <name></name>
   </author>
@@ -18,6 +18,18 @@
     
     <content type="html">
       <![CDATA[ Hello there, Git! ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>subpage</title>
+    <id>/subpage</id>
+    <updated>2019-03-26T13:25:46-06:00</updated>
+    <published>2019-03-26T13:08:07-06:00</published>
+    <summary>Ex uno Plures!</summary>
+    <link href="/subpage"/>
+    
+    <content type="html">
+      <![CDATA[ Ex uno Plures! ]]>
     </content>
   </entry>
 </feed>
