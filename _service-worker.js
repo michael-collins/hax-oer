@@ -37,40 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/page-01\/index.html",
-        "HfYmgupP6IlpTutQExtA"
-    ],
-    [
-        "",
-        "uK5SHVaZ1Y8YtY5hkH2Q"
-    ],
-    [
-        "\/oer-01\/",
-        "Rki53JB5vXzTk1wnRbcqQ"
-    ],
-    [
-        "index.html",
-        "3lb3JoeaNmD9cnJsFuVygg"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "HMmlM5EKgjAlQRD8UKLCQ"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -319,4 +286,4 @@ self.addEventListener('fetch', function (event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
+toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
