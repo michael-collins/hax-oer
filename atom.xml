@@ -3,7 +3,7 @@
   <title>oer 01</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-03-26T20:00:38+01:00</updated>
+  <updated>2019-03-26T19:42:16+01:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>Page 01</title>
     <id>/page-01</id>
-    <updated>2019-03-26T20:01:49+01:00</updated>
+    <updated>2019-03-26T19:59:04+01:00</updated>
     <published>2019-03-26T19:42:16+01:00</published>
     <summary>Hello there, Git!</summary>
     <link href="/page-01"/>
