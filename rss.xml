@@ -6,17 +6,17 @@
     <description></description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 12:42:16 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 19:42:16 +0100</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>New page</title>
       <link>/item-4436601a-b418-4e0c-889e-f9c282940e7e</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ Hello there, Git! ]]>
       </description>
       <category></category>
       <guid>/item-4436601a-b418-4e0c-889e-f9c282940e7e</guid>
-      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Jan 1970 01:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

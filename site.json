@@ -68,10 +68,10 @@
             "order": 0,
             "parent": null,
             "title": "New page",
-            "description": "",
+            "description": "Hello there, Git!",
             "metadata": {
                 "created": 1553625736,
-                "updated": 1553625736
+                "updated": 1553626701
             }
         }
     ]
