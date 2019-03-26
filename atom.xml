@@ -3,21 +3,21 @@
   <title>oer 01</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-03-26T12:42:16-06:00</updated>
+  <updated>2019-03-26T19:42:16+01:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
-    <title>New page</title>
-    <id>/item-4436601a-b418-4e0c-889e-f9c282940e7e</id>
-    <updated>2019-03-26T12:42:16-06:00</updated>
-    <published>2019-03-26T12:42:16-06:00</published>
-    <summary></summary>
-    <link href="/item-4436601a-b418-4e0c-889e-f9c282940e7e"/>
+    <title>Page 01</title>
+    <id>/page-01</id>
+    <updated>2019-03-26T19:59:04+01:00</updated>
+    <published>2019-03-26T19:42:16+01:00</published>
+    <summary>Hello there, Git!</summary>
+    <link href="/page-01"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Hello there, Git! ]]>
     </content>
   </entry>
 </feed>
