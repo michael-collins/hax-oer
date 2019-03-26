@@ -9,12 +9,12 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>New page</title>
-    <id>/item-4436601a-b418-4e0c-889e-f9c282940e7e</id>
-    <updated>2019-03-26T19:58:21+01:00</updated>
+    <title>Page 01</title>
+    <id>/page-01</id>
+    <updated>2019-03-26T19:59:04+01:00</updated>
     <published>2019-03-26T19:42:16+01:00</published>
     <summary>Hello there, Git!</summary>
-    <link href="/item-4436601a-b418-4e0c-889e-f9c282940e7e"/>
+    <link href="/page-01"/>
     
     <content type="html">
       <![CDATA[ Hello there, Git! ]]>

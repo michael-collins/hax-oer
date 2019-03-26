@@ -64,14 +64,14 @@
         {
             "id": "item-4436601a-b418-4e0c-889e-f9c282940e7e",
             "indent": 0,
-            "location": "pages\/item-4436601a-b418-4e0c-889e-f9c282940e7e\/index.html",
+            "location": "pages\/page-01\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
+            "title": "Page 01",
             "description": "Hello there, Git!",
             "metadata": {
                 "created": 1553625736,
-                "updated": 1553626701
+                "updated": 1553626744
             }
         }
     ]
