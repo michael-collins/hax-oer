@@ -8,7 +8,7 @@
         "siteName": "oer-01",
         "domain": null,
         "created": 1553625736,
-        "updated": 1553626838,
+        "updated": 1553627287,
         "theme": {
             "element": "outline-player",
             "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
@@ -71,7 +71,20 @@
             "description": "Hello there, Git!",
             "metadata": {
                 "created": 1553625736,
-                "updated": 1553626744
+                "updated": 1553627287
+            }
+        },
+        {
+            "id": "item-1f471fa2-1fdd-4dfc-ad59-465c31987ee3",
+            "indent": 1,
+            "location": "pages\/subpage\/index.html",
+            "order": 0,
+            "parent": "item-4436601a-b418-4e0c-889e-f9c282940e7e",
+            "title": "subpage",
+            "description": "",
+            "metadata": {
+                "created": 1553627287,
+                "updated": 1553627287
             }
         }
     ]
