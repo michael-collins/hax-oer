@@ -8,11 +8,11 @@
         "siteName": "oer-01",
         "domain": null,
         "created": 1553625736,
-        "updated": 1553625736,
+        "updated": 1553626838,
         "theme": {
-            "element": "simple-blog",
-            "path": "@lrnwebcomponents\/simple-blog\/simple-blog.js",
-            "name": "Simple blog"
+            "element": "outline-player",
+            "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
+            "name": "Documentation"
         },
         "image": "assets\/banner.jpg",
         "hexCode": "#aeff00",
