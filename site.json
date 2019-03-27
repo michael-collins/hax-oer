@@ -8,7 +8,7 @@
         "siteName": "oer-01",
         "domain": null,
         "created": 1553625736,
-        "updated": 1553627287,
+        "updated": 1553652675,
         "theme": {
             "element": "outline-player",
             "path": "@lrnwebcomponents\/outline-player\/outline-player.js",
@@ -67,11 +67,11 @@
             "location": "pages\/page-01\/index.html",
             "order": 0,
             "parent": null,
-            "title": "Page 01",
+            "title": "3D Animation Project",
             "description": "Hello there, Git!",
             "metadata": {
                 "created": 1553625736,
-                "updated": 1553627287
+                "updated": 1553652675
             }
         }
     ]
