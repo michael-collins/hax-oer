@@ -18,15 +18,5 @@
       <guid>/page-01</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
-    <item>
-      <title>subpage</title>
-      <link>/subpage</link>
-      <description>
-          <![CDATA[ Ex uno Plures! ]]>
-      </description>
-      <category></category>
-      <guid>/subpage</guid>
-      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
-    </item>
   </channel>
 </rss>
