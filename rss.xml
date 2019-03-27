@@ -6,7 +6,7 @@
     <description></description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 20:11:15 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 09:00:04 -0600</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>3D Animation Project</title>
@@ -16,6 +16,16 @@
       </description>
       <category></category>
       <guid>/page-01</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson</title>
+      <link>/lesson</link>
+      <description>
+          <![CDATA[ Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it's example t ]]>
+      </description>
+      <category></category>
+      <guid>/lesson</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
   </channel>

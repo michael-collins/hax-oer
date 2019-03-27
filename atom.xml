@@ -3,7 +3,7 @@
   <title>oer 01</title>
   <link href="/atom.xml" rel="self" />
   <subtitle></subtitle>
-  <updated>2019-03-26T20:11:15-06:00</updated>
+  <updated>2019-03-27T09:00:04-06:00</updated>
   <author>
       <name></name>
   </author>
@@ -18,6 +18,18 @@
     
     <content type="html">
       <![CDATA[ DescriptionFor this project, you produce an animation centered around the theme, journey. You will design, model, texture, animate, and render a 10 - 30 second animation in response to sound tha ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lesson</title>
+    <id>/lesson</id>
+    <updated>2019-03-27T09:00:37-06:00</updated>
+    <published>2019-03-27T09:00:04-06:00</published>
+    <summary>Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it's example t</summary>
+    <link href="/lesson"/>
+    
+    <content type="html">
+      <![CDATA[ Ex uno PluresIntroduction to ELMS: Learning NetworkWhat is ELMS: Learning Network? How is it fundamentally different from other learning technologies? Why is it your reading this when it's example t ]]>
     </content>
   </entry>
 </feed>
